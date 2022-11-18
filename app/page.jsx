@@ -97,7 +97,13 @@ export default function Home() {
             </a>{" "}
             for Chainlink Fall 2022 Hackathon
           </p>
-          <span>Git repo</span>
+          <span> <a
+                href="https://github.com/vanoob404/anon-share"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Git repo
+              </a></span>
         </footer>
       </div>
     </>
