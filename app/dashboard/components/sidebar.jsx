@@ -58,7 +58,16 @@ export default function Sidebar() {
         </div>
         <div className={styles.links}>
           <div className={styles.litems}>
-            <div className={styles.link}>Github Repo</div>
+            <div className={styles.link}>
+              <a
+                href="https://github.com/vanoob404/anon-share"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                 Github Repo
+              </a>
+              
+             </div>
           </div>
           {/* <div className={styles.litems}>
             <div className={styles.link}></div>
