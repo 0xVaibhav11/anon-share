@@ -1,34 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![MasterHead](https://user-images.githubusercontent.com/97467803/202875218-b80cf1f8-d542-4b20-837d-de2d53a9d61a.png)](https://share3.vanoob.dev)
 
-## Getting Started
 
-First, run the development server:
+<h1 align="center">This is ANON</h1>
+<h5 align="center">A dApp for sharing app</h5>
+<h5 align="center">Share your files anonymously.</h5>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### Try [ANON](https://share3.vanoob.dev)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Description
+### What is dApp 
+A decentralized application (dapp) is an application built on a decentralized network that combines a smart contract and a frontend user interface.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### What this app is doing
+It is a File sharing app, built using web3.storage, Gun.js.
+It stores all files on IPFS with the help of we3.storage & all the data stuff (sender's addres, recipient address, cid of files.) using gun.js
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Demo video 🎞 👀
+### I filled the wrong video link on devpost submission form, by mistake.
+https://www.youtube.com/watch?v=18UOcS169bc&t
+I will upload the video with better video quality asap. (im lil busy)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 🚀 Launch your gun.js server
+
+### nodejs Gun server
+<h4>Ready to use</h4>
+https://github.com/vanoob404/gun-db
+
+
+## Left to do
+- [ ] improve ui of dashboard 
+- [ ] fixing dashboard/history maping from db. i messed that up :(
