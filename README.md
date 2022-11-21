@@ -5,7 +5,7 @@
 <h5 align="center">A dApp for sharing files</h5>
 <h5 align="center">Share your files anonymously.</h5>
 
-### Try [ANON](https://share3.vanoob.dev)
+### Try [ANON](https://anon.vanoob.dev)
 
 ## Description
 ### What is dApp 
